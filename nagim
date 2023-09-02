@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
 {
-printf("criket lover")
+printf("criket lover");
+printf("football lover");
 }
